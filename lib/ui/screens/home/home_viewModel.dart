@@ -1,7 +1,7 @@
 import 'package:stacked/stacked.dart';
 
-import '../../app/app.locator.dart';
-import '../../services/counterService.dart';
+import '../../../app/app.locator.dart';
+import '../../../services/counterService.dart';
 
 class ButtonViewModel extends BaseViewModel {
   final _counterService = locator<CounterService>();
