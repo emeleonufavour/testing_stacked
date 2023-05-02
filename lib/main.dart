@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:stakced_tutorial/app/app.locator.dart';
+import 'package:stakced_tutorial/ui/screens/home/home_view.dart';
 
-import 'home.dart';
+
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
