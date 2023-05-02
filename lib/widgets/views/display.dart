@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 
-import 'View models/buttonViewModel.dart';
+import '../View models/buttonViewModel.dart';
 
 class Display extends StatelessWidget {
   @override

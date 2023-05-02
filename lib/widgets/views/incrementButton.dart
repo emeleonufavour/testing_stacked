@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 
-import '../home.dart';
-import 'View models/buttonViewModel.dart';
+import '../../home.dart';
+import '../View models/buttonViewModel.dart';
 
 class IncrementButton extends StatelessWidget {
   @override

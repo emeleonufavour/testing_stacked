@@ -7,9 +7,9 @@ import 'package:stacked/stacked.dart';
 import 'package:stakced_tutorial/app/app.locator.dart';
 import 'package:stakced_tutorial/services/counterService.dart';
 import 'package:stakced_tutorial/widgets/View%20models/buttonViewModel.dart';
-import 'package:stakced_tutorial/widgets/decrementCounter.dart';
-import 'package:stakced_tutorial/widgets/display.dart';
-import 'package:stakced_tutorial/widgets/incrementButton.dart';
+import 'package:stakced_tutorial/widgets/views/decrementCounter.dart';
+import 'package:stakced_tutorial/widgets/views/display.dart';
+import 'package:stakced_tutorial/widgets/views/incrementButton.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
